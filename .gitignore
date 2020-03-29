@@ -1,0 +1,6 @@
+# Start ignoring some of the inherited work until is refactored
+src/Plugin/Layout
+src/Plugin/UiPatterns
+layout_options_extra.layout_options.yml
+layout_options_extra.layouts.yml
+layout_options_extra.libraries.yml

@@ -1,0 +1,38 @@
+.test {
+  position:relative;
+}
+
+.test-content {
+  padding-top: 400px;
+}
+
+.test-sidebar {
+  position: absolute;
+  top:0;
+  right:0;
+  width:50%;
+  height:auto;
+}
+
+.layout-builder__layout .layout-builder__region.test-sidebar {
+  position: absolute;
+}
+
+.icon-test {
+  position:absolute;
+  bottom:0;
+  left:0;
+  transform: translate(-50%, 50%) rotate(-20deg);
+  background-color: #000;
+  padding: 0.66rem;
+  border-radius: 50%;
+}
+
+.article--teaser {
+  border: 1px solid red;
+  padding: 15px;
+}
+
+.icon-test img {
+  border-radius: 50%;
+}

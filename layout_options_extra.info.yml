@@ -1,0 +1,7 @@
+name: 'layout_options_extra'
+type: module
+description: 'A library of option types for layout options'
+core: 8.x
+package: 'Layout Options'
+dependencies:
+  - layout_options
